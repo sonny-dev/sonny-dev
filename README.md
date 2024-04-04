@@ -1,3 +1,6 @@
+![image](https://github.com/sonny-dev/sonny-dev/assets/54631241/d46e55f2-c5ee-462b-b57e-f43f58afae26)
+
+
 <b>Notable Projects:</b>
 
 Authentic Vehicle Names Overhaul: 

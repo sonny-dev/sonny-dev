@@ -1,12 +1,19 @@
 Currently Creating C# Scripts in Visual Studio 2022 for Grand Theft Auto. 
 https://www.gta5-mods.com/uploads 
 
-<b>Notable Scripts:</b>
-- VanishingHUD:- https://www.gta5-mods.com/scripts/vanishing-hud 
-- Save Game Anywhere/Anytime from the Player's Phone:- https://www.gta5-mods.com/scripts/save-game-ifruit-contact
+<b>Notable Projects:</b>
+Authentic Vehicle Names Overhaul: 
+  https://www.gta5-mods.com/misc/replaced-game-names
+VanishingHUD:
+  https://www.gta5-mods.com/scripts/vanishing-hud
+Save Game phone contact:
+  https://www.gta5-mods.com/scripts/save-game-ifruit-contact
  
-I am currently working on a fully customisable Vehicle Dealerships C# script for Grand Theft Auto. 
-Enabling the player to Buy/Sell Vehicles at various Dealerships whose buildings of which already exist in the game world. 
+In Progress: 
+Vehicle Dealerships (C# script). 
+Impromptu Style Street Racing & Betting (C# script). 
+VanishingHUD - version 1.6 
+Authentic Vehicle Names Overhaul - version 4.5 / 5.0 
  
 - 🌱 Learning C# and C++. 
 

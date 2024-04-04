@@ -1,7 +1,3 @@
-Currently Creating C# Scripts in Visual Studio 2022 for Grand Theft Auto. 
-https://www.gta5-mods.com/uploads 
-
-<br>
 <b>Notable Projects:</b>
 
 Authentic Vehicle Names Overhaul: 

@@ -1,20 +1,19 @@
 Currently Creating C# Scripts in Visual Studio 2022 for Grand Theft Auto. 
 https://www.gta5-mods.com/uploads 
 
+<br>
 <b>Notable Projects:</b>
 
 Authentic Vehicle Names Overhaul: 
   https://www.gta5-mods.com/misc/replaced-game-names
-
   
 VanishingHUD:
   https://www.gta5-mods.com/scripts/vanishing-hud
 
-  
 Save Game phone contact:
   https://www.gta5-mods.com/scripts/save-game-ifruit-contact
 
- 
+<br>
 <b>In Progress: </b>
 
 Vehicle Dealerships (C# script). 
@@ -25,7 +24,7 @@ VanishingHUD - version 1.6
 
 Authentic Vehicle Names Overhaul - version 4.5 / 5.0 
 
- 
+ <br>
 - 🌱 Learning C# and C++. 
 
 <!---

@@ -1,7 +1,7 @@
 Currently Creating C# Scripts in Visual Studio 2022 for Grand Theft Auto. 
 https://www.gta5-mods.com/uploads 
 
-**Notable Scripts: **
+<b>Notable Scripts:</b>
 - VanishingHUD:- https://www.gta5-mods.com/scripts/vanishing-hud 
 - Save Game Anywhere/Anytime from the Player's Phone:- https://www.gta5-mods.com/scripts/save-game-ifruit-contact
  

@@ -4,18 +4,15 @@ https://www.gta5-mods.com/uploads
 <b>Notable Projects:</b>
 
 Authentic Vehicle Names Overhaul: 
-
   https://www.gta5-mods.com/misc/replaced-game-names
   
 VanishingHUD:
-
   https://www.gta5-mods.com/scripts/vanishing-hud
   
 Save Game phone contact:
-
   https://www.gta5-mods.com/scripts/save-game-ifruit-contact
  
-In Progress: 
+<b>In Progress: </b>
 Vehicle Dealerships (C# script). 
 Impromptu Style Street Racing & Betting (C# script). 
 VanishingHUD - version 1.6 

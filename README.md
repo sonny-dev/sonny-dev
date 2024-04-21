@@ -2,27 +2,27 @@
 
 <b>Notable Projects:</b>
 
-Authentic Vehicle Names Overhaul: 
-  https://www.gta5-mods.com/misc/replaced-game-names
-  
 VanishingHUD:
   https://www.gta5-mods.com/scripts/vanishing-hud
 
 Save Game phone contact:
   https://www.gta5-mods.com/scripts/save-game-ifruit-contact
 
+Authentic Vehicle Names Overhaul: 
+  https://www.gta5-mods.com/misc/replaced-game-names
+
 <br>
 <b>In Progress: </b>
 
-Unreal Engine 5 Project: "MATAKI"
+Unreal Engine 5 Project: "MATAKI" - New Zealand based Action-Adventure RPG. 
 
-Vehicle Dealerships (C# script). 
+GTA V - Vehicle Dealerships (C# Script). 
+GTA V - Vehicle Maintenance (Immersive Repairs, Cleaning, and Refuelling) (C# Script). 
+GTA V - Street Racing & Betting (Immersive & Impromptu Street Races with NPCs) (C# script). 
 
-Impromptu Style Street Racing & Betting (C# script). 
-
-VanishingHUD - version 1.6 
-
-Authentic Vehicle Names Overhaul - version 4.5 / 5.0 
+Upcoming Updates: 
+VanishingHUD - Version [1.6]: 
+Authentic Vehicle Names Overhaul - Version [4.5]:
 
  <br>
 - 🌱 Learning C# and C++. 

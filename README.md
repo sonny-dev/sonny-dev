@@ -29,8 +29,7 @@ Real Vehicle Names - Version [4.5]:
 - Utility, Plane, and Helicopter classes updated.
 - Any extra vehicles added in the next GTA update. 
 
- <br>
-- 🌱 Learning C# and C++. 
+
 
 
 ![image](https://github.com/sonny-dev/sonny-dev/assets/54631241/8659cad1-de8a-465a-b89a-f947cad015ce)

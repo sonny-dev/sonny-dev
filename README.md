@@ -8,7 +8,7 @@ VanishingHUD:
 Save Game phone contact:
   https://www.gta5-mods.com/scripts/save-game-ifruit-contact
 
-Authentic Vehicle Names Overhaul: 
+Real Vehicle Names: 
   https://www.gta5-mods.com/misc/replaced-game-names
 
 <br>
@@ -22,7 +22,14 @@ GTA V - Street Racing & Betting (Immersive & Impromptu Street Races with NPCs) (
 
 Upcoming Updates: 
 VanishingHUD - Version [1.6]: 
-Authentic Vehicle Names Overhaul - Version [4.5]:
+- Ability to enable Big Map in Single Player (from Online).
+- Set the Zoom level of the map.
+- Fix: Pressing 'S' (and L3 Y axis -1) reveals map, not intended. 
+
+Real Vehicle Names - Version [4.5]:
+- Minor fixes for some vehicles
+- Utility, Plane, and Helicopter classes updated.
+- Any extra vehicles added in the next GTA update. 
 
  <br>
 - 🌱 Learning C# and C++. 

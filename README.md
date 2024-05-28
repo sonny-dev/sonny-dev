@@ -1,4 +1,5 @@
-# <b>Vanishing HUD: https://gta5-mods.com/scripts/vanishing-hud</b>
+# <b>Vanishing HUD:</b>
+https://gta5-mods.com/scripts/vanishing-hud
 
 ### Dynamically Display the Minimap (Radar) in GTA 5. 
 **Features:** 

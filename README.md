@@ -1,4 +1,4 @@
-<b>Notable Projects:</b>
+# <b>Notable Projects:</b>
 
 VanishingHUD:
   https://www.gta5-mods.com/scripts/vanishing-hud

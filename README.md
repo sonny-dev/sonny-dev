@@ -32,12 +32,12 @@ Real Vehicle Names:
 - Grand Theft Auto (natural-motion, physics and gameplay) 
 
 # Upcoming Updates: 
-###VanishingHUD - Version [1.6]: 
+### VanishingHUD - Version [1.6]: 
 - Ability to enable Big Map in Single Player (feature imported from Online).
 - Set the Zoom level of the map for on-foot, driving, and in-building modes. 
 - Fix: Pressing 'S' (or Left Stick down) while the inventory should be hidden, unintentionally reveals the minimap again. 
 
-###Real Vehicle Names - Version [4.5]:
+### Real Vehicle Names - Version [4.5]:
 - Minor fixes for further add-on vehicles from new game patches. 
 - Utility, Planes, and Helicopters added. 
 - Any extra vehicles added in the next GTA update.

@@ -18,12 +18,15 @@ Real Vehicle Names:
 - Street Racing & Betting (Immersive / Impromptu Style Street Races with AI),
 
 ## Unreal Engine 5: 
-###Project: MATAKI is currently in the early stages of development as I learn more of Unreal Engine 5's capabilities and experiment with gameplay mechanics. 
-####Features: 
+### Project: MATAKI
+**Description:** MATAKI is a Third Person Action RPG set in a dystopian world where time is currency. Inspired by the movie "In Time", players will navigate through a society rife with wealth disparity, technology-driven surveillance, and cultural commentary. 
+
+**Features:** 
 - Dynamic Environments 
 - Character Customisation 
 - Combat and Stealth Mechanics
-####Inspiration: 
+
+**Inspirations:** 
 - InTime (2011) 
 - CyberPunk (themes, technology, societal commentary) 
 - Grand Theft Auto (natural-motion, physics and gameplay) 

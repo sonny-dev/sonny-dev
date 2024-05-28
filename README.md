@@ -9,24 +9,32 @@ Save Game phone contact:
 Real Vehicle Names: 
   https://www.gta5-mods.com/misc/replaced-game-names
 
-<br>
-<b>Currently In Development: </b>
+# Currently In Development: 
+## Grand Theft Auto .NET C# Scripts: 
+- Vehicle Dealerships (View and Purchase New Vehicles from in-game Dealerships & more), 
 
-"MATAKI" - RPG game made using Unreal Engine 5
+- Vehicle Maintenance (Immersive Repairs, Cleaning, and Refuelling), 
 
-GTA V - Vehicle Dealerships (C# Script). 
+- Street Racing & Betting (Immersive / Impromptu Style Street Races with AI),
 
-GTA V - Vehicle Maintenance (Immersive Repairs, Cleaning, and Refuelling) (C# Script). 
+## Unreal Engine 5: 
+###Project: MATAKI is currently in the early stages of development as I learn more of Unreal Engine 5's capabilities and experiment with gameplay mechanics. 
+####Features: 
+- Dynamic Environments 
+- Character Customisation 
+- Combat and Stealth Mechanics
+####Inspiration: 
+- InTime (2011) 
+- CyberPunk (themes, technology, societal commentary) 
+- Grand Theft Auto (natural-motion, physics and gameplay) 
 
-GTA V - Street Racing & Betting (Immersive & Impromptu Street Races with NPCs) (C# script). 
-
-Upcoming Updates: 
-VanishingHUD - Version [1.6]: 
+# Upcoming Updates: 
+###VanishingHUD - Version [1.6]: 
 - Ability to enable Big Map in Single Player (feature imported from Online).
 - Set the Zoom level of the map for on-foot, driving, and in-building modes. 
 - Fix: Pressing 'S' (or Left Stick down) while the inventory should be hidden, unintentionally reveals the minimap again. 
 
-Real Vehicle Names - Version [4.5]:
+###Real Vehicle Names - Version [4.5]:
 - Minor fixes for further add-on vehicles from new game patches. 
 - Utility, Planes, and Helicopters added. 
 - Any extra vehicles added in the next GTA update.

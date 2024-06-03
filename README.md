@@ -19,17 +19,12 @@ Real Vehicle Names:
 
 ## Unreal Engine 5: 
 ### Project: MATAKI
-**Description:** MATAKI is a Third Person Action RPG set in a dystopian world where time is currency. Inspired by the movie "In Time", players will navigate through a society rife with wealth disparity, technology-driven surveillance, and cultural commentary. 
-
 **Features:** 
 - Dynamic Environments 
 - Character Customisation 
-- Combat and Stealth Mechanics
+- Combat and Stealth Mechanics 
 
-**Inspirations:** 
-- InTime (2011) 
-- CyberPunk (themes, technology, societal commentary) 
-- Grand Theft Auto (natural-motion, physics and gameplay) 
+
 
 # Upcoming Updates: 
 ### VanishingHUD - Version [1.6]: 
